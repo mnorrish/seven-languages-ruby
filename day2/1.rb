@@ -11,7 +11,7 @@ numbers.each do |n|
   end
 end
 
-# print the contents of an array of sixteen numbers, four numbers at a time just using each
+# print the same using each_slice
 numbers.each_slice(4) do |a|
   p a
 end
