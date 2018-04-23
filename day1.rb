@@ -1,5 +1,3 @@
-#!/usr/bin/ruby
-
 puts "Hello, World."
 
 # Find the index of the word Ruby
