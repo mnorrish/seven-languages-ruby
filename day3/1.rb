@@ -61,6 +61,9 @@ end
 
 sample = Csv.new
 
+
+# Print the row values for given column headings
+
 puts "Heading 'one'"
 sample.each { |row| puts row.one }
 puts ""
